@@ -1,16 +1,7 @@
 {
-"versi" : "1.3",
-"title" : "Uninstall old version and Install in PlayStore
-",
-"message" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
-
-"button" : "false",
-"link" : "New UI and Fix Error",
-"InfoButtonOk" : "Fix",
-"InfoUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
-
-"Antena" : "assetindexer.8~2FDinOIgg9lz07Rd~2BaRxwEkU4yw~3D",
-"LinkOn" : "true",
-"LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
-"LayoutMessage" : "'ANTENA','DONT USE MAIN ACCOUNT RISK BANNED'"
+"versi":"1.1",
+"title":"Title Dialog",
+"message":"Message Dialog",
+"button":"Update",
+"link":"https://play.google.com/store/apps/details?id=com.cyrust.fftools"
 }
