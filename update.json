@@ -2,9 +2,7 @@
 "load":"true",
 "version":"1.6",
 "title":"What's new?",
-"message":"- New Available display FPS Meter 🥳
-- If you want OVERLAY Display FPS ✓
-Download 𝐅𝐅 𝐓𝐎𝐎𝐋𝐒 𝐏𝐑𝐎𝐌𝐀𝐗 available in PlayStore",
+"message":"Hello user! you are using old version of SENSI BOOSTER, you need to update to the latest version in order to experience a total multifunctions.",
 "button":"Update",
 "url":"https://play.google.com/store/apps/details?id=com.cyrust.ffsensibooster",
 "morelink":"true",
@@ -12,6 +10,6 @@ Download 𝐅𝐅 𝐓𝐎𝐎𝐋𝐒 𝐏𝐑𝐎𝐌𝐀𝐗 available in Pla
 "moreapp":"https://play.google.com/store/apps/details?id=com.cyrust.fftoolspromax",
   
 "txt_marquee_link":"https://play.google.com/store/apps/details?id=com.cyrust.fftoolspromax",
-"txt_marquee":"This is a Booster For Free Fire app for reducing lag exclusively for FF survival games, which helps fix lag very effectively. Please launch this application before entering the game, it will help you optimize and speed up your phone, it helps you weak phone effectively reduce lags. click here",
+"txt_marquee":"",
 "txt_marquee_click":"true"
 }
