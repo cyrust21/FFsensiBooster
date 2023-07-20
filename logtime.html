@@ -1,4 +1,22 @@
-<p id="date"></p>
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"></p>
+<span id="datetime"></span>
+
+
 <script>
-document.getElementById("date").innerHTML = Date();
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleDateString();
 </script>
+
+<script>
+let text = "Hello World!";
+let encoded = window.btoa(dt);
+
+document.getElementById("datetime").innerHTML = "" + text + "" + encoded;
+</script>
+
+</body>
+</html>
